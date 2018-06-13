@@ -1,0 +1,9 @@
+[package]
+name = "monchtercards"
+version = "0.1.0"
+authors = ["coderconvoy <thebeaky@psmail.net>"]
+
+[dependencies]
+
+lazyf = { path = "../../mlibs/lazyf"}
+mksvg = { path = "../../mlibs/mksvg"}
