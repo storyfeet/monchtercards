@@ -4,137 +4,164 @@
     xmlns:xlink="http://www.w3.org/1999/xlink">
   <g transform="translate(124,175.4) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/boomba.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/boomba.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/electric.svg" />
   </g>
   <g transform="translate(570.4,175.4) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/castan.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/castan.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/earth.svg" />
   </g>
   <g transform="translate(1016.8,175.4) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/elecfuzz.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/elecfuzz.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/electric.svg" />
   </g>
   <g transform="translate(1463.1999999999998,175.4) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/flubby.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/flubby.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/wind.svg" />
   </g>
   <g transform="translate(1909.6,175.4) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/mousan.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/mousan.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/plant.svg" />
   </g>
   <g transform="translate(124,626.4285714285714) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/rabboo.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/rabboo.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/brawn.svg" />
   </g>
   <g transform="translate(570.4,626.4285714285714) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/rolabean.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/rolabean.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/brawn.svg" />
   </g>
   <g transform="translate(1016.8,626.4285714285714) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/roobal.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/roobal.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/earth.svg" />
   </g>
   <g transform="translate(1463.1999999999998,626.4285714285714) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/spiker.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/spiker.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/plant.svg" />
   </g>
   <g transform="translate(1909.6,626.4285714285714) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/splot.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/splot.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/water.svg" />
   </g>
   <g transform="translate(124,1077.4571428571428) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/fishone.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/fishone.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/water.svg" />
   </g>
   <g transform="translate(570.4,1077.4571428571428) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/fishtwo.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/fishtwo.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/water.svg" />
   </g>
   <g transform="translate(1016.8,1077.4571428571428) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/hocus.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/hocus.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/mind.svg" />
   </g>
   <g transform="translate(1463.1999999999998,1077.4571428571428) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/loconyo.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/loconyo.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/brawn.svg" />
   </g>
   <g transform="translate(1909.6,1077.4571428571428) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/parsneep.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/parsneep.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/plant.svg" />
   </g>
   <g transform="translate(124,1528.4857142857143) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/pocus.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/pocus.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/mind.svg" />
   </g>
   <g transform="translate(570.4,1528.4857142857143) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/psyspi.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/psyspi.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/mind.svg" />
   </g>
   <g transform="translate(1016.8,1528.4857142857143) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/seedotops.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/seedotops.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/plant.svg" />
   </g>
   <g transform="translate(1463.1999999999998,1528.4857142857143) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/shoototops.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/shoototops.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/plant.svg" />
   </g>
   <g transform="translate(1909.6,1528.4857142857143) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/leafotops.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/leafotops.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/plant.svg" />
   </g>
   <g transform="translate(124,1979.5142857142857) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/sloshted.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/sloshted.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/water.svg" />
   </g>
   <g transform="translate(570.4,1979.5142857142857) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/sneezachu.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/sneezachu.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/electric.svg" />
   </g>
   <g transform="translate(1016.8,1979.5142857142857) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/spidie.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/spidie.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/mind.svg" />
   </g>
   <g transform="translate(1463.1999999999998,1979.5142857142857) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/creatures/bernard.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/creatures/bernard.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/fire.svg" />
   </g>
   <g transform="translate(1909.6,1979.5142857142857) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/trainers/storme.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/trainers/storme.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/electric.svg" />
   </g>
   <g transform="translate(124,2430.542857142857) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/trainers/trainer01.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/trainers/trainer01.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/brawn.svg" />
   </g>
   <g transform="translate(570.4,2430.542857142857) ">
 
-    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:44.64;stroke:black;fill:white;" />
-    <image x="0" y="0" width="446.4" height="451.0285714285714" xlink:href="/home/matthew/games/board/monchsters/trainers/trainer02.svg" />
+    <rect x="0" y="0" width="446.4" height="451.0285714285714" style="stroke-width:14.879999999999999;fill:#ffbbbb;stroke:black;" />
+    <image x="66.96" y="44.64" width="312.47999999999996" height="312.47999999999996" xlink:href="/home/matthew/games/board/monchsters/trainers/trainer02.svg" />
+    <image x="5" y="5" width="89.28" height="89.28" xlink:href="/home/matthew/games/board/monchsters/elems/water.svg" />
   </g>
 </svg>

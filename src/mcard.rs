@@ -2,27 +2,28 @@ use lazyf::lzlist::Lz;
 use lazyf::get::SGetter;
 use mksvg::page::Card;
 use mksvg::{Svg,style,st};
-use std::path::{Path,PathBuf};
+//use std::path::{Path,PathBuf};
+use cdenv::CDEnv;
 
 #[derive(Clone)]
-pub struct MCard {
+pub struct MCard<'a> {
     name:String,
-    path:PathBuf,
+    env:&'a CDEnv,
     fol:String,
     elem:String,
     count:i32,
     movement:String,
     special:String,
     cost:i32, 
-    bgcol:string,
+    bgcol:String,
 }
 
-impl MCard {
-    pub fn fromLZnP(lz:&Lz,p:&Path)->MCard{
+impl<'a> MCard<'a> {
+    pub  fn  from_lz_env(lz:&Lz,e:&'a CDEnv)->MCard<'a>{
         MCard{
             name:lz.name.clone(),
-            path:PathBuf::from(p),
-            fol:lz.get_s_def("Fol","creatures"),
+            env:e,
+            fol:lz.get_s_def("Fol",&e.mon_fol),
             elem:lz.get_s_def("Type","Brawn"),
             count:lz.get_t_def("ext0",0),
             movement:lz.get_s_def("Move","NONE"),
@@ -33,16 +34,16 @@ impl MCard {
     }
 }
 
-impl Card<f64> for MCard {
+impl<'a> Card<f64> for MCard<'a> {
     fn front<S:Svg>(&self,s:&mut S, w:f64,h:f64){
-        let mut cpath = self.path.clone(); 
-        cpath.push(&self.fol);
-        cpath.push([&(self.name.to_lowercase()) , ".svg"].join(""));
-        
 
-        s.rect(0.0,0.0,w,h,&style(&[&st("stroke-width",w/10.0),"stroke:black;fill:white;"])); 
+        s.rect(0.0,0.0,w,h,&style(&[&st("stroke-width",w/30.0),&st("fill",&self.bgcol),"stroke:black;"])); 
 
-        s.img(cpath.to_string_lossy().to_mut(),0.0,0.0,w,h);
+        let cpath = self.env.picloc(&self.fol,&self.name.to_lowercase());
+        s.img(&cpath,w*0.15,w*0.1,w*0.7,w*0.7);
+
+        let epath = self.env.picloc(&self.env.elem_fol,&self.elem.to_lowercase());
+        s.img(&epath,5.0,5.0,w/5.0,w/5.0);
     }
 }
 
