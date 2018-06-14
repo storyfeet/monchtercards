@@ -44,6 +44,17 @@ impl<'a> Card<f64> for MCard<'a> {
 
         let epath = self.env.picloc(&self.env.elem_fol,&self.elem.to_lowercase());
         s.img(&epath,5.0,5.0,w/5.0,w/5.0);
+
+        //cost
+        if self.cost != 0 {
+            s.ellipse(w*0.9,h*0.1,w*0.06,w*0.06,&style(&[&st("stroke-width",w*0.01),"fill:yellow;stroke:black;"]));
+            s.text(&self.cost.to_string(),w*0.87,h*0.13,w*0.1,"",&["text:anchor:middle;stroke:none;fill:black;font-weight:bold"]);
+        }
+
+        //Text and abilities
+        s.text(&self.name,w/2.0,h*0.85,w*0.09,"",&["text-anchor:middle;stroke:none;fill:black;"]);
+        s.text(&self.env.map_moves(&self.movement),w*0.015,h*0.94,w*0.075,"",&["text-anchor:start;stroke:none;fill:black"]);
+        s.text(&self.env.map_moves(&self.special),w*0.985,h*0.94,w*0.075,"",&["text-anchor:end;stroke:none;fill:black"]);
     }
 }
 
