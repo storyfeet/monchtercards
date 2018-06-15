@@ -15,7 +15,7 @@ pub struct MCard<'a> {
     movement:String,
     special:String,
     cost:i32, 
-    bgcol:String,
+    pub bgcol:String,
 }
 
 impl<'a> MCard<'a> {
